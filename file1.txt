@@ -1,2 +1,6 @@
+
 hello form main branch
+
+hello from conflict branch
+
 feature added
