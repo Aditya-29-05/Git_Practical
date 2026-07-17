@@ -1,2 +1,2 @@
-hello sambata
+hello from conflict branch
 feature added
